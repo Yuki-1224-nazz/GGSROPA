@@ -1,0 +1,6 @@
+node_modules/
+.env
+accounts.txt
+proxies.txt
+*.log
+.DS_Store
